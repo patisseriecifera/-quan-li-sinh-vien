@@ -148,7 +148,7 @@ st.divider()
 st.markdown(
     """
     <div style="text-align: center; color: gray; font-size: 12px;">
-        Người thực hiện: HỌ VÀ TÊN CỦA BẠN | MSSV: MÃ SỐ SINH VIÊN CỦA BẠN
+        Người thực hiện: VŨ CƯỜNG THỊNH | MSSV: 031208008889
     </div>
     """,
     unsafe_allow_html=True
